@@ -21,4 +21,6 @@ let carsInReverse = totalCars.reverse();
 console.log('backwards', carsInReverse);
 
 let sorted = carsInReverse.sort();
-console.log('reverse'. sorted);
+console.log('reverse'.sorted);
+
+// ajfklajkl;fja;sfj;ajfk;asd
